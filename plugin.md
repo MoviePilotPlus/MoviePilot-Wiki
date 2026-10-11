@@ -31,7 +31,7 @@ dateCreated: 2024-06-11T22:35:11.803Z
 **可同步的公开插件仓库清单：**
 
 <!-- plugin-market-repos:start -->
-- https://github.com/jxxghp/MoviePilot-Plugins
+- https://github.com/MoviePilotPlus/MoviePilot-Plugins
 - https://github.com/thsrite/MoviePilot-Plugins
 - https://github.com/honue/MoviePilot-Plugins
 - https://github.com/InfinityPacer/MoviePilot-Plugins
